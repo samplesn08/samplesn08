@@ -6,8 +6,8 @@ Welcome to my Github!  I'm a former Starbucks supervisor turned software enginee
 
 ### Current status
 - 📫 Stuff I know: ... HTML5, CSS3, JavaScript, React, NodeJS, Python
-- 🔭 I’m currently working on ... backend for Family Promise
-- 🌱 I’m currently learning ... MongoDB, C++
+- 🔭 What I’m currently working on ... backend for Family Promise
+- 🌱 New things I’m learning ... MongoDB, C++, piano
 - 😄 Pronouns: ... He/him
 
 ### Reach out to me!
