@@ -9,3 +9,7 @@ Welcome to my Github!  I'm a former Starbucks supervisor turned software enginee
 - 🔭 I’m currently working on ... backend for Family Promise
 - 🌱 I’m currently learning ... MongoDB, C++
 - 😄 Pronouns: ... He/him
+
+### Reach out to me!
+- LinkedIn: [Click Here](https://www.linkedin.com/in/nicholas-samples/)
+- Portfolio: [Click Here](https://portfolio-alpha-smoky.vercel.app/)
