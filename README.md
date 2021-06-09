@@ -12,6 +12,7 @@ Welcome to my Github!  I'm a former Starbucks supervisor turned software enginee
 
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=samplesn08)](https://github.com/samplesn08/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samplesn08)](https://github.com/samplesn08/github-readme-stats)
 
 ### Reach out to me!
 - LinkedIn: [Click Here](https://www.linkedin.com/in/nicholas-samples/)
