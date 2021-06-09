@@ -4,11 +4,35 @@ Welcome to my Github!  I'm a former Starbucks supervisor turned software enginee
 - Environment-tech
 - Game development
 
-### Current status
-- 📫 Stuff I know: ... HTML5, CSS3, JavaScript, React, NodeJS, Python
-- 🔭 What I’m currently working on ... backend for Family Promise
-- 🌱 New things I’m learning ... MongoDB, C++, piano
-- 😄 Pronouns: ... He/him
+## Front-End:
+![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
+![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
+![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
+
+## Back-End:
+![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
+![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
+![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
+
+## Other Tools & Libraries:
+![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
+![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
+![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
+![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
+![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
+![Postman](https://img.shields.io/badge/Postman-2E3440?style=for-the-badge&logo=Postman)
+
+## Testing:
+![Cypress.io](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=samplesn08)](https://github.com/samplesn08/github-readme-stats)
 
