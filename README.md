@@ -10,6 +10,9 @@ Welcome to my Github!  I'm a former Starbucks supervisor turned software enginee
 - 🌱 New things I’m learning ... MongoDB, C++, piano
 - 😄 Pronouns: ... He/him
 
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=samplesn08)](https://github.com/samplesn08/github-readme-stats)
+
+
 ### Reach out to me!
 - LinkedIn: [Click Here](https://www.linkedin.com/in/nicholas-samples/)
 - Portfolio: [Click Here](https://portfolio-alpha-smoky.vercel.app/)
