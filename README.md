@@ -12,7 +12,7 @@ Welcome to my Github!  I'm a former Starbucks supervisor turned software enginee
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
 
 ## Back-End:
-![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
+![Node](https://img.shields.io/badge/Node.JS-2E3440?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
