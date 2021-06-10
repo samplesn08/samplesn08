@@ -21,7 +21,7 @@ Welcome to my Github!  I'm a former Starbucks supervisor turned software enginee
 ## Testing:
 ![Cypress.io](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-ReactTestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ## Other Tools:
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
